@@ -157,7 +157,7 @@ Now that we have the Venafi CodeSign Protect client installed as well as the Jen
 
 Within the Folder you created earlier, Select `+ New Item`
 
-Provide the item name such as signtool-test and select `Pipeline`
+Provide the item name such as `signtool-test` and select `Pipeline`
 
 Enter the pipeline script as follows:
 
